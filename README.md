@@ -1,7 +1,7 @@
 ## Hi there, I'm Emerson Vieira! 👋
 
 I'm Emerson, nice to e-meet you! 😊  
-**Software Engineer @PolibrasSoftware** | Developer | React and React Native 💜 | Problem Solver | Open Source Enthusiast  
+**Software Engineer @smartmresearch** | Developer | React and React Native 💜 | Problem Solver | Open Source Enthusiast  
 
 ---
 
