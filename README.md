@@ -3,6 +3,8 @@
 I'm Emerson, nice to e-meet you! 😊  
 **Software Engineer @smartmresearch** | Developer | React and React Native 💜 | Problem Solver | Open Source Enthusiast  
 
+[![An image of @mensonones's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mensonones)](https://holopin.io/@mensonones)
+
 ---
 
 ### 🚀 **About Me**
