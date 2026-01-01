@@ -1,66 +1,81 @@
-## Hi there, I'm Emerson Vieira! 👋
+## Hi there, I'm Emerson Vieira 👋
 
-I'm Emerson, nice to e-meet you! 😊  
-**Software Engineer @smartmresearch** | Developer | React and React Native 💜 | Problem Solver | Open Source Enthusiast  
+Software Engineer focused on **mobile, full-stack, and security-critical applications**.  
+I work mainly with **React Native, Android (Java/Kotlin), and backend systems**, with hands-on experience contributing to **well-known open-source projects** used by developers worldwide.
 
-[![An image of @mensonones's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mensonones)](https://holopin.io/@mensonones)
-
----
-
-### 🚀 **About Me**
-
-Welcome to my corner of the internet! I’m a passionate Software Engineer with a focus on **React Native**, **Android**, and **C++** development. My expertise lies in crafting efficient, scalable, and user-friendly mobile applications while solving complex problems through innovative solutions.  
-
-I love working with open-source technologies and contributing to the developer community by sharing resources, insights, and opportunities.
+[![Holopin badges](https://holopin.me/mensonones)](https://holopin.io/@mensonones)
 
 ---
 
-### 🔧 **Skills & Expertise**
+## 🚀 About Me
 
-#### 🖥️ **Mobile Development**
-- Extensive experience building cross-platform mobile applications using **React Native**.
-- Proficient in native **Android** development with **Java/Kotlin**.
-- Skilled in performance optimization, API integration, and creating responsive user interfaces.
-- Knowledge of **C++**, with a focus on developing efficient and scalable solutions.
-- Experienced in integrating native code (Java/Kotlin/C++) into mobile apps via **React Native Turbo Modules**, **JNI (Java Native Interface)**, and **JSI (JavaScript Interface)** for Android.
+I'm a Software Engineer who enjoys working close to the metal when needed — from **native Android integrations** to **secure backend logic** — while still delivering polished cross-platform experiences.
 
----
+My work emphasizes:
+- Performance and scalability  
+- Mobile and backend security (OWASP-driven mindset)  
+- Clean architecture and long-term maintainability  
 
-### 🌟 **Other Skills**
-
-In addition to my primary focus on mobile development, I have experience and proficiency in a variety of other technologies that complement my skill set:
-
-- Python & Django and Node.js
-- React Web Development
-- SQLite and PostgreSQL
-- AWS and GCP
-- Firebase
-- Docker
+I actively contribute to **open-source tools and frameworks**, especially in the **React Native and Expo ecosystem**, helping improve real-world developer experience.
 
 ---
 
-### 📈 **GitHub Stats**
+## 🧠 Areas of Expertise
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+### 📱 Mobile Development
+- **React Native**: Advanced usage, native module integration, performance tuning
+- **Android (Java / Kotlin)**: Native SDKs, system APIs, media handling
+- **New Architecture**: JSI, Turbo Modules, JNI integrations
+- **Mobile Security**: OWASP Mobile Top 10, biometrics, secure storage
+- **Analytics & Monitoring**: Firebase, AppsFlyer, Sentry
 
-<img src="https://github-readme-stats.vercel.app/api?username=mensonones&show_icons=true&count_private=true&theme=algolia" alt="Emerson's GitHub Stats" />
+### 🔐 Security & Backend
+- Secure expression evaluation and **RCE mitigation**
+- Node.js backends with authentication, validation, and quotas
+- Firebase Authentication and access control
+- CI pipelines with static analysis and security scanning (SonarQube)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensonones&layout=compact&theme=algolia" alt="Top Langs" />
-
-</div>
-
-<br />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mensonones&margin-w=15)](https://github.com/mensonones)
+### 🌐 Full-Stack & Infrastructure
+- React.js for admin panels and internal tools
+- SQL & cloud-based data stores (PostgreSQL, SQLite, Firebase)
+- Dockerized environments and deployment workflows
 
 ---
 
-### ✨ **What Drives Me**
-- Solving challenging problems with creative and efficient solutions.
-- Contributing to open-source projects and fostering collaboration within the developer community.
-- Continuously learning and exploring new technologies to stay ahead in the ever-evolving world of software development.
+### 🧑‍💻 Open-Source Contribution (Merged)
+
+- **react-native-async-storage** — merged code contribution improving the `multiMerge` API example in the official repository.
+---
+
+## 📊 GitHub Activity
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=5387202" target="_blank" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=5387202&color_scheme=dark">
+    <img alt="GitHub dashboard stats" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=5387202&color_scheme=light">
+  </picture>
+</a>
 
 ---
 
-### 📝 **Curating Resources**
-I’m passionate about sharing knowledge and opportunities by curating job postings, tutorials, and other relevant resources for developers. Let’s grow together! 🌱
+## ✨ What Motivates Me
+
+- Improving **developer experience** in widely-used tools
+- Bridging **cross-platform abstractions with native power**
+- Building secure systems that scale without surprises
+- Contributing upstream so the ecosystem gets better for everyone
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re interested in:
+- Mobile performance & native integrations  
+- Security in React Native or backend systems  
+- Open-source collaboration  
+
+Feel free to reach out or explore my repositories.
+
+---
+
+_“Good abstractions are built by understanding what they hide.”_
