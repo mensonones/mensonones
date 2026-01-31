@@ -1,81 +1,43 @@
-## Hi there, I'm Emerson Vieira 👋
+<div align="center">
 
-Software Engineer focused on **mobile, full-stack, and security-critical applications**.  
-I work mainly with **React Native, Android (Java/Kotlin), and backend systems**, with hands-on experience contributing to **well-known open-source projects** used by developers worldwide.
+# ⚡ Emerson Vieira
+
+**Building the future of high-performance mobile ecosystems.**
 
 [![Holopin badges](https://holopin.me/mensonones)](https://holopin.io/@mensonones)
 
----
+<br/>
 
-## 🚀 About Me
-
-I'm a Software Engineer who enjoys working close to the metal when needed — from **native Android integrations** to **secure backend logic** — while still delivering polished cross-platform experiences.
-
-My work emphasizes:
-- Performance and scalability  
-- Mobile and backend security (OWASP-driven mindset)  
-- Clean architecture and long-term maintainability  
-
-I actively contribute to **open-source tools and frameworks**, especially in the **React Native and Expo ecosystem**, helping improve real-world developer experience.
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## 🧠 Areas of Expertise
+### 🧪 Engineering Highlights
 
-### 📱 Mobile Development
-- **React Native**: Advanced usage, native module integration, performance tuning
-- **Android (Java / Kotlin)**: Native SDKs, system APIs, media handling
-- **New Architecture**: JSI, Turbo Modules, JNI integrations
-- **Mobile Security**: OWASP Mobile Top 10, biometrics, secure storage
-- **Analytics & Monitoring**: Firebase, AppsFlyer, Sentry
+**[expo-vector-search](https://github.com/mensonones/expo-vector-search)**  
+*Next-gen on-device similarity search engine (C++/JSI).*
 
-### 🔐 Security & Backend
-- Secure expression evaluation and **RCE mitigation**
-- Node.js backends with authentication, validation, and quotas
-- Firebase Authentication and access control
-- CI pipelines with static analysis and security scanning (SonarQube)
-
-### 🌐 Full-Stack & Infrastructure
-- React.js for admin panels and internal tools
-- SQL & cloud-based data stores (PostgreSQL, SQLite, Firebase)
-- Dockerized environments and deployment workflows
+**[expo-spatial-layer-app](https://github.com/mensonones/expo-spatial-layer-app)**  
+*Native spatial rendering for 200k+ dynamic data points.*
 
 ---
 
-### 🧑‍💻 Open-Source Contribution (Merged)
+### 📈 Metrics
 
-- **react-native-async-storage** — merged code contribution improving the `multiMerge` API example in the official repository.
----
-
-## 📊 GitHub Activity
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=5387202" target="_blank" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=5387202" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=5387202&color_scheme=dark">
-    <img alt="GitHub dashboard stats" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=5387202&color_scheme=light">
+    <img alt="GitHub dashboard stats" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=5387202&color_scheme=light" width="100%">
   </picture>
 </a>
 
----
+<br/>
 
-## ✨ What Motivates Me
+[**LinkedIn**](https://www.linkedin.com/in/emersonvieira1/) &nbsp;•&nbsp; [**Email**](mailto:emerson.dev.mobile@gmail.com) &nbsp;•&nbsp; [**GitHub**](https://github.com/mensonones)
 
-- Improving **developer experience** in widely-used tools
-- Bridging **cross-platform abstractions with native power**
-- Building secure systems that scale without surprises
-- Contributing upstream so the ecosystem gets better for everyone
+</div>
 
----
-
-## 🤝 Let’s Connect
-
-If you’re interested in:
-- Mobile performance & native integrations  
-- Security in React Native or backend systems  
-- Open-source collaboration  
-
-Feel free to reach out or explore my repositories.
-
----
-
-_“Good abstractions are built by understanding what they hide.”_
