@@ -37,7 +37,7 @@
 
 <br/>
 
-[**LinkedIn**](https://www.linkedin.com/in/emersonvieira1/) &nbsp;•&nbsp; [**Email**](mailto:emerson.dev.mobile@gmail.com) &nbsp;•&nbsp; [**GitHub**](https://github.com/mensonones)
+[**LinkedIn**](https://www.linkedin.com/in/emersonvieira1/) &nbsp;•&nbsp; [**GitHub**](https://github.com/mensonones)
 
 </div>
 
